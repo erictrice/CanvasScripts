@@ -1,3 +1,12 @@
+// ==UserScript==
+// @name        View All Grades for a Student
+// @namespace   https://github.com/erictrice/CanvasScripts
+// @include     /^https://.*\.instructure\.com/?.*/users/[0-9]+$/
+// @version     2
+// @grant       none
+// ==/UserScript==
+
+
 /*
   This script is to display letter grades along with their percentage on 
   - student's Grades dashboard page(`/grades`)
